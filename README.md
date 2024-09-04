@@ -20,8 +20,8 @@ This project demonstrates how to build a Movie Recommendation System using data 
 ## Dataset
 The dataset used in this project is the TMDb 5000 Movies and Credits dataset, available on Kaggle. It consists of two main CSV files:
 
-`tmdb_5000_movies.csv`: Contains information about movies, including budget, genres, popularity, revenue, runtime, and more.
-`tmdb_5000_credits.csv`: Contains information about the cast and crew of each movie.
+- `tmdb_5000_movies.csv`: Contains information about movies, including budget, genres, popularity, revenue, runtime, and more.
+- `tmdb_5000_credits.csv`: Contains information about the cast and crew of each movie.
 
 ## Installation
 To get started with the project, clone the repository and install the required dependencies:
